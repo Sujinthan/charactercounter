@@ -1,2 +1,2 @@
 # Character-Counter
-Counts and displays the number of times all character appear in a text file.
+Counts and displays the number of times all characters appear in a text file.
